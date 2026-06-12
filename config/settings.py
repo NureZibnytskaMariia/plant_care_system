@@ -143,7 +143,8 @@ CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:3000",
     "http://localhost:5174",
     "http://localhost:5173",
-    "http://127.0.0.1:5173"
+    "http://127.0.0.1:5173",
+    "https://homeplant-client-epbvaeajfba3duch.polandcentral-01.azurewebsites.net",
 ]
 
 BACKUP_DIR = BASE_DIR / 'backups'
