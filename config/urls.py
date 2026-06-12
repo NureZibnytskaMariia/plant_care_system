@@ -27,6 +27,7 @@ schema_view = get_schema_view(
     ),
     public=True,
     permission_classes=(permissions.AllowAny,),
+    url='https://homeplant-backend-cvdnb5a8cff5dhdp.polandcentral-01.azurewebsites.net/',
 )
 
 
