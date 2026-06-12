@@ -1,0 +1,10 @@
+# Python Requirements для Arduino Bridge
+
+# Serial Communication
+pyserial==3.5
+
+# HTTP Requests
+requests==2.31.0
+
+# Environment Variables
+python-decouple==3.8
